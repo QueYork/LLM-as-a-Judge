@@ -1,8 +1,8 @@
 # LLM-as-a-Judge for Recommendation Evaluation
  
-This is the PyTorch implementation for the paper:
+This is the implementation for the paper:
 
-> LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation.
+> Yue Que, Junyi Zhou, Xiaokun Zhang, Haiming Jin, Qiao Xiang, and Chen Ma (2026). LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation. In KDD'26.
 
 ## To Start With
 
